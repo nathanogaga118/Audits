@@ -2,9 +2,9 @@
 
 I can be contacted via:
 
-- **X:** @0xFlint_
-- **Discord:** @0xFlint_
-- **Telegram:** https://t.me/OxFlint
+- **X:** @mkart
+- **Discord:** @micheal3922
+
 
 Certora
 | Date             | Protocol    | 

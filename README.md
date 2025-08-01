@@ -1,4 +1,4 @@
-# Audit Portfolio - Michael Nathan 
+Audit and software design Portfolio - Michael ogaga
 
 I can be contacted via:
 
@@ -9,10 +9,14 @@ I can be contacted via:
 Certora
 | Date             | Protocol    | 
 |:-------------------|:-------------|
-| April 2025  | Heaven AMM |
-| March 2025  | Mayan |
-| March 2025  | Infinifi |
-| February 2025  | EigenLayer Staking |
+| April 2025  | autolayer|
+| March 2025  | ripple |
+| March 2025  | apple |
+| software engineer for fishing frenzy|
+software engineer for phantom wallet 
+software engineer for ogrigintrail 
+
+
 
 Private Engagements
 | Date             | Protocol    | 
